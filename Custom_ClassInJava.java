@@ -11,6 +11,7 @@ class Employee{
     }
 
      int getSalary(){
+
          return salary;
     }
 }
